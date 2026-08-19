@@ -3,12 +3,12 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.12.7</title>
-            <pubDate>Wed, 19 Aug 2026 04:14:53 +0000</pubDate>
-            <sparkle:version>53</sparkle:version>
-            <sparkle:shortVersionString>0.12.7</sparkle:shortVersionString>
+            <title>0.12.8</title>
+            <pubDate>Wed, 19 Aug 2026 06:05:52 +0000</pubDate>
+            <sparkle:version>54</sparkle:version>
+            <sparkle:shortVersionString>0.12.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.7/Krakozyabra-0.12.7.dmg" length="11193015" type="application/octet-stream" sparkle:edSignature="m6Cm9DmLCCc+AHrNVNZjF62sIM7UHkJbl+K8b59tnZX9iFKMHF49AbKIKJU47yPEYE8jdEmyEGVqgfgfR5EhDA=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.8/Krakozyabra-0.12.8.dmg" length="11192822" type="application/octet-stream" sparkle:edSignature="onTwG9JKReAI1L780wVbCpAw2d/7RVDOjPVnwa7kYumkbCJaL29X4sJVEeLOM+DN/Hrjk0nh/THJgujxwTeeCw=="/>
         </item>
         <item>
             <title>0.1.3</title>
