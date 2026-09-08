@@ -3,18 +3,17 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.12.30</title>
-            <pubDate>Tue, 08 Sep 2026 10:35:25 +0000</pubDate>
-            <sparkle:version>76</sparkle:version>
-            <sparkle:shortVersionString>0.12.30</sparkle:shortVersionString>
+            <title>0.12.31</title>
+            <pubDate>Tue, 08 Sep 2026 11:07:59 +0000</pubDate>
+            <sparkle:version>77</sparkle:version>
+            <sparkle:shortVersionString>0.12.31</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>Точка на иконке в строке меню, когда обновление скачано и готово к установке.</li>
-<li>Версия приложения — последней строкой меню, под Quit.</li>
+<li>Запятая и точка «русскими пальцами» после уже сконвертированного слова, пока раскладка ещё английская: «?» на клавише «/» становится запятой, «/» — точкой, «&amp;» — вопросительным знаком.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.30/Krakozyabra-0.12.30.dmg" length="11378883" type="application/octet-stream" sparkle:edSignature="rBwhjI2qW6cVMEfnv0asRHkuEkO72NQ6Mukb58SACYXaS99ZsY/VIrm1WQWX7CC+yH+OBrVJFHN1BuTVITwzDg=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.31/Krakozyabra-0.12.31.dmg" length="11384278" type="application/octet-stream" sparkle:edSignature="naZB1vwhVbbsk5BZkBCbDZYAC1gBNxP1A4Q+3IGrj3tJDQAl//zee9oo+lL/PrpUVkY0RqZE5naYwJb5NiinDA=="/>
         </item>
         <item>
             <title>0.1.3</title>
