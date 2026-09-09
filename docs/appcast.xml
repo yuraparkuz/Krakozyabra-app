@@ -3,17 +3,17 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.12.31</title>
-            <pubDate>Tue, 08 Sep 2026 11:07:59 +0000</pubDate>
-            <sparkle:version>77</sparkle:version>
-            <sparkle:shortVersionString>0.12.31</sparkle:shortVersionString>
+            <title>0.12.32</title>
+            <pubDate>Wed, 09 Sep 2026 10:16:30 +0000</pubDate>
+            <sparkle:version>78</sparkle:version>
+            <sparkle:shortVersionString>0.12.32</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>Запятая и точка «русскими пальцами» после уже сконвертированного слова, пока раскладка ещё английская: «?» на клавише «/» становится запятой, «/» — точкой, «&amp;» — вопросительным знаком.</li>
+<li>Допечатанный вплотную хвост слова (после стирания случайной запятой) больше не сносит начало слова при конверсии: «спас» + «ибо» → «спасибо».</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.31/Krakozyabra-0.12.31.dmg" length="11384278" type="application/octet-stream" sparkle:edSignature="naZB1vwhVbbsk5BZkBCbDZYAC1gBNxP1A4Q+3IGrj3tJDQAl//zee9oo+lL/PrpUVkY0RqZE5naYwJb5NiinDA=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.32/Krakozyabra-0.12.32.dmg" length="11385537" type="application/octet-stream" sparkle:edSignature="FRkk2ftArQQKMyLcu93vBpHixi5MEnXzeRQG0el8l+Bd4YBPyRdIJSK9XXa6vsLxMpbjh5/3fYXHigOXvVbvDw=="/>
         </item>
         <item>
             <title>0.1.3</title>
