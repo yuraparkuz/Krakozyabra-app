@@ -3,17 +3,17 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.12.34</title>
-            <pubDate>Thu, 10 Sep 2026 06:11:25 +0000</pubDate>
-            <sparkle:version>80</sparkle:version>
-            <sparkle:shortVersionString>0.12.34</sparkle:shortVersionString>
+            <title>0.12.35</title>
+            <pubDate>Thu, 10 Sep 2026 06:44:51 +0000</pubDate>
+            <sparkle:version>81</sparkle:version>
+            <sparkle:shortVersionString>0.12.35</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>Нажатия во время вставки исправления больше не влетают между стиранием и текстом («нужно ghdj» → «нужноghdj» с пробелом не там). Есть выключатель в настройках автодетекта.</li>
+<li>Стёр последние буквы слова и сразу перепечатал — исправление срабатывает без паузы, в том числе когда перепечатанные буквы — «б» или «ю» на клавишах запятой и точки.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.34/Krakozyabra-0.12.34.dmg" length="11395982" type="application/octet-stream" sparkle:edSignature="/0E182jG+W2Tt7HPNY0CAlaDCRllY3MrmeHfdsOetx0iVlMTUStRs5szZYDrj1FfL6q7euozBvFyBSgrfRhWDA=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.35/Krakozyabra-0.12.35.dmg" length="11398448" type="application/octet-stream" sparkle:edSignature="tCXCbIn3/aLXM/NhJBXr81qqpjpI4174TcM4+sIRA2Ulfh8sQ5PswQjSV7ozmjoC9Zm1IxK79yGjiqYpJFjKAw=="/>
         </item>
         <item>
             <title>0.1.3</title>
