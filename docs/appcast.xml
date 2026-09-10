@@ -3,17 +3,17 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.12.38</title>
-            <pubDate>Thu, 10 Sep 2026 09:52:55 +0000</pubDate>
-            <sparkle:version>84</sparkle:version>
-            <sparkle:shortVersionString>0.12.38</sparkle:shortVersionString>
+            <title>0.12.39</title>
+            <pubDate>Thu, 10 Sep 2026 12:24:30 +0000</pubDate>
+            <sparkle:version>85</sparkle:version>
+            <sparkle:shortVersionString>0.12.39</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>Вкладка Dictionary: два списка не помещались в окно — теперь вкладка прокручивается, кнопки в один ряд.</li>
+<li>Слово с залипшим Shift на первых буквах («PFdnhf» → «ЗАвтра») больше не принимается за латинскую аббревиатуру и конвертируется.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.38/Krakozyabra-0.12.38.dmg" length="11460543" type="application/octet-stream" sparkle:edSignature="6MeTxMs+PdYnLMAuVaC0pmW2ThhYzuWbRHWyXu7dQUIy7BpaO9fe5c4PYPi+UXDXczKTgb8SVQy//UFE/uGaBA=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.39/Krakozyabra-0.12.39.dmg" length="11461853" type="application/octet-stream" sparkle:edSignature="A8pRmk4g78y7h2RNk3RDOdRldcEDt5X2UBTgveK/ptTS5AaRlxS6QYkj/b9pAJfSF7ivSD723VhU2FuTr10hAg=="/>
         </item>
         <item>
             <title>0.1.3</title>
