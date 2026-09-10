@@ -3,17 +3,17 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.12.37</title>
-            <pubDate>Thu, 10 Sep 2026 07:39:02 +0000</pubDate>
-            <sparkle:version>83</sparkle:version>
-            <sparkle:shortVersionString>0.12.37</sparkle:shortVersionString>
+            <title>0.12.38</title>
+            <pubDate>Thu, 10 Sep 2026 09:52:55 +0000</pubDate>
+            <sparkle:version>84</sparkle:version>
+            <sparkle:shortVersionString>0.12.38</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>«Мои слова (автоматически)»: имена, сленг и бренды, которые вы печатаете регулярно, кракозябра теперь считает настоящими словами — не портит при честном наборе и восстанавливает, если набрать не в той раскладке. Список и кнопка «Убрать» — Настройки → Dictionary.</li>
+<li>Вкладка Dictionary: два списка не помещались в окно — теперь вкладка прокручивается, кнопки в один ряд.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.37/Krakozyabra-0.12.37.dmg" length="11455797" type="application/octet-stream" sparkle:edSignature="sFzKqvz/WTAzieNDhB2/RtMT1eV1u+1VKfvjy4nkERRfk9yz/FZYCEsciEb+/ZBu6Fnavv0sSnsPi+JTYN4JBQ=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.38/Krakozyabra-0.12.38.dmg" length="11460543" type="application/octet-stream" sparkle:edSignature="6MeTxMs+PdYnLMAuVaC0pmW2ThhYzuWbRHWyXu7dQUIy7BpaO9fe5c4PYPi+UXDXczKTgb8SVQy//UFE/uGaBA=="/>
         </item>
         <item>
             <title>0.1.3</title>
