@@ -3,17 +3,17 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.12.35</title>
-            <pubDate>Thu, 10 Sep 2026 06:44:51 +0000</pubDate>
-            <sparkle:version>81</sparkle:version>
-            <sparkle:shortVersionString>0.12.35</sparkle:shortVersionString>
+            <title>0.12.36</title>
+            <pubDate>Thu, 10 Sep 2026 07:08:52 +0000</pubDate>
+            <sparkle:version>82</sparkle:version>
+            <sparkle:shortVersionString>0.12.36</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>Стёр последние буквы слова и сразу перепечатал — исправление срабатывает без паузы, в том числе когда перепечатанные буквы — «б» или «ю» на клавишах запятой и точки.</li>
+<li>Сбор данных для персонализации: перенабор того же слова после стирания теперь фиксируется как промах детекта; ⌥⌫ (стереть слово) учитывается как стирание слова целиком.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.35/Krakozyabra-0.12.35.dmg" length="11398448" type="application/octet-stream" sparkle:edSignature="tCXCbIn3/aLXM/NhJBXr81qqpjpI4174TcM4+sIRA2Ulfh8sQ5PswQjSV7ozmjoC9Zm1IxK79yGjiqYpJFjKAw=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.36/Krakozyabra-0.12.36.dmg" length="11396701" type="application/octet-stream" sparkle:edSignature="8x25ONvmaNCeptjeumpB5lNU+Cqaoipy+ohgXwmYZ1afXPh/R9eK7qEX5JK10kVburdz4Oi3PHkIB5GXgXNuDA=="/>
         </item>
         <item>
             <title>0.1.3</title>
