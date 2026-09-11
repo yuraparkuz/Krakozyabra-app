@@ -3,17 +3,22 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.12.44</title>
-            <pubDate>Fri, 11 Sep 2026 09:50:46 +0000</pubDate>
-            <sparkle:version>90</sparkle:version>
-            <sparkle:shortVersionString>0.12.44</sparkle:shortVersionString>
+            <title>0.12.45</title>
+            <pubDate>Fri, 11 Sep 2026 11:19:33 +0000</pubDate>
+            <sparkle:version>91</sparkle:version>
+            <sparkle:shortVersionString>0.12.45</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>После нажатия Globe (🌐) буквы больше не переписываются по старой раскладке: «geo» оставалось «geщ», когда окно приложения уже переключилось на английский, а система ещё считала раскладку русской. Теперь после явного переключения набор проходит как есть, пока система не подтвердит смену или буквы не совпадут с раскладкой.</li>
+<li>Настоящая русская запятая после слова, набранного русской раскладкой вместо английской, больше не превращается в «?» при исправлении.</li>
+<li>Переключение раскладки мышью через меню флага прерывает начатое исправление внутри слова, как и переключение с клавиатуры.</li>
+<li>После стирания слова целиком исправление внутри следующего слова снова работает сразу.</li>
+<li>Отчёт «Сообщить об ошибке»: пометки «прошло/проглочено» в трейсе больше не сбиваются нажатиями в полях паролей.</li>
+<li>Нажатия, удержанные на время вставки исправления, не улетают в другое приложение при переключении по ⌘Tab.</li>
+<li>Сборка списка «Мои слова» полностью ушла в фон; устаревшие персональные выборы вычищаются автоматически.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.44/Krakozyabra-0.12.44.dmg" length="11512814" type="application/octet-stream" sparkle:edSignature="/uxIbQGqeRR27iwJDxinvu2Hzec7xQW6aEk3eKJC8O/7Xq2olY3ZDX6/Hs0hOtYNujjyNgLQ0C8SBWV34YfYBA=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.45/Krakozyabra-0.12.45.dmg" length="12371539" type="application/octet-stream" sparkle:edSignature="iJMA6smGGlJn8Q7WaBTWa7UEdhGFlyo5djLH6Yafzc2/DAoP69bKYUTNdCm3v3K6a7ZA49OQ0wWcN5h7/KzhAA=="/>
         </item>
         <item>
             <title>0.1.3</title>
