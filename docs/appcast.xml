@@ -3,17 +3,21 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.12.40</title>
-            <pubDate>Fri, 11 Sep 2026 04:20:49 +0000</pubDate>
-            <sparkle:version>86</sparkle:version>
-            <sparkle:shortVersionString>0.12.40</sparkle:shortVersionString>
+            <title>0.12.41</title>
+            <pubDate>Fri, 11 Sep 2026 05:16:46 +0000</pubDate>
+            <sparkle:version>87</sparkle:version>
+            <sparkle:shortVersionString>0.12.41</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>Слова с дефисом или апострофом («rfr-nj» → «как-то», «gj&#x27;njve» → «поэтому») больше не оставляют хвост исходного набора при исправлении.</li>
+<li>Конверсия выделения через буфер обмена больше не уничтожает скопированную картинку, файл или форматированный текст: буфер восстанавливается целиком и не трогается, если выделения не было.</li>
+<li>Нажатия в полях паролей не удерживаются и не попадают в отчёт «Сообщить об ошибке», даже если пришлись на момент исправления.</li>
+<li>Блокировка экрана отменяет запланированное авто-переключение раскладки — таймер больше не вернёт русскую раскладку посреди ввода пароля.</li>
+<li>«Убрать» в «Мои слова» действует сразу; пересборка личного словаря ушла в фон и не задерживает обработку клавиш.</li>
+<li>«ГИБДДшник», «ТашГТУ» и другие кириллические аббревиатуры со строчным хвостом снова защищены от ложного исправления.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.40/Krakozyabra-0.12.40.dmg" length="11462656" type="application/octet-stream" sparkle:edSignature="VbE1hVd7Z3RG+ryrm/efTz0mS8Kkn31E3mzyLZ72Njf/coGfvNUsTMrXN/2sekok9B567IGLxbMPIwErJtCZAQ=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.41/Krakozyabra-0.12.41.dmg" length="11482351" type="application/octet-stream" sparkle:edSignature="hbYfu5C1Q59nqr6ys9BfVATTFB339l9RBe6oYQBc/CsQnHRVl0AK1WljNByvqqRZrjeXmYMiUnoHFkI8RmcUBA=="/>
         </item>
         <item>
             <title>0.1.3</title>
