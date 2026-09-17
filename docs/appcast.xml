@@ -3,17 +3,18 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.12.54</title>
-            <pubDate>Thu, 17 Sep 2026 05:32:52 +0000</pubDate>
-            <sparkle:version>100</sparkle:version>
-            <sparkle:shortVersionString>0.12.54</sparkle:shortVersionString>
+            <title>0.12.55</title>
+            <pubDate>Thu, 17 Sep 2026 06:37:37 +0000</pubDate>
+            <sparkle:version>101</sparkle:version>
+            <sparkle:shortVersionString>0.12.55</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>В настройках появился экспериментальный переключатель «Переключать раскладку без паузы». Обычно раскладка меняется в ближайшей паузе набора, а с ним — сразу после второго исправления, даже при непрерывной печати. Выключен по умолчанию.</li>
+<li>Раскладка больше не прыгает сама при переходах между приложениями. Если выбрать раскладку вручную, Кракозябра запоминала её для этого приложения и навязывала при каждом возвращении в окно — даже когда переключатель «Запоминать язык приложений» был снят. Теперь эта память подчиняется переключателю: снят — раскладку при переходах никто не трогает.</li>
+<li>В отчёте «Сообщить об ошибке» появилась строка с приложениями, которым Кракозябра перестала предлагать переключение раскладки. Раньше она замолкала молча, и со стороны это было не отличить от поломки.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.54/Krakozyabra-0.12.54.dmg" length="11552201" type="application/octet-stream" sparkle:edSignature="nSJU+Dlup43rMOlI3r31vJgMmnX3z5ZUdFhW9/d2dd/ZcNA8dc51e4GtKNWq18UCstXUoe1dVMWtzP54bZFsCg=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.55/Krakozyabra-0.12.55.dmg" length="11550966" type="application/octet-stream" sparkle:edSignature="eqpqh8foqvPU7VMkVm4ut97X8kRG+5skkPtMTRPnPceG8OyRVd07y+yESUkmHqDWDtOvP8ze1JQGvXYyeghICA=="/>
         </item>
         <item>
             <title>0.1.3</title>
