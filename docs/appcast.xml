@@ -3,17 +3,18 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.12.57</title>
-            <pubDate>Thu, 17 Sep 2026 10:30:41 +0000</pubDate>
-            <sparkle:version>103</sparkle:version>
-            <sparkle:shortVersionString>0.12.57</sparkle:shortVersionString>
+            <title>0.12.58</title>
+            <pubDate>Fri, 18 Sep 2026 13:10:50 +0000</pubDate>
+            <sparkle:version>104</sparkle:version>
+            <sparkle:shortVersionString>0.12.58</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>В настройках появился экспериментальный переключатель «Исправлять, не задерживая ввод». Пока Кракозябра переписывает слово, macOS придерживает весь ввод — при быстрой печати набор на мгновение замирает, а потом буквы появляются рывком. С галочкой правка перестаёт занимать ввод. Выключен по умолчанию: включите, наберите длинный текст и снимите галочку, если увидите перепутанные буквы.</li>
+<li>Приложение, которое однажды не приняло переключение раскладки, больше не остаётся без переключения навсегда. Раньше эта пометка снималась только перезапуском Кракозябры — и одной неудачной секунды хватало, чтобы фича умерла в нужном вам приложении. Теперь это пауза: спустя время попытка повторяется.</li>
+<li>Вывод «приложение не принимает переключение» делается только по тому, что произошло сразу после переключения. Прежде уликой могло стать что угодно, набранное хоть через десять секунд, и вердикт выносился по постороннему поводу.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.57/Krakozyabra-0.12.57.dmg" length="11561391" type="application/octet-stream" sparkle:edSignature="TPYrYFHVP7gswgKsgrPOiFRx7SVkW3GmuaJGKVuBtSXHZ8Vg4eMriThpipMrzmPdzNr5rXJWfB6NL0haFRWRCg=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.58/Krakozyabra-0.12.58.dmg" length="11566125" type="application/octet-stream" sparkle:edSignature="3+0CU8vYBWaeQkeNKqtsKLbk8mvpbkRJeY8fTYemyOPkMkgL0cgvCxqIR7Ci7sK+e5n8hRsS7tLRdnM2RTviCg=="/>
         </item>
         <item>
             <title>0.1.3</title>
