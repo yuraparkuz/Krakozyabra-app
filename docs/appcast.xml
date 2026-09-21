@@ -3,18 +3,18 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.12.58</title>
-            <pubDate>Fri, 18 Sep 2026 13:10:50 +0000</pubDate>
-            <sparkle:version>104</sparkle:version>
-            <sparkle:shortVersionString>0.12.58</sparkle:shortVersionString>
+            <title>0.12.59</title>
+            <pubDate>Mon, 21 Sep 2026 07:27:13 +0000</pubDate>
+            <sparkle:version>105</sparkle:version>
+            <sparkle:shortVersionString>0.12.59</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>Приложение, которое однажды не приняло переключение раскладки, больше не остаётся без переключения навсегда. Раньше эта пометка снималась только перезапуском Кракозябры — и одной неудачной секунды хватало, чтобы фича умерла в нужном вам приложении. Теперь это пауза: спустя время попытка повторяется.</li>
-<li>Вывод «приложение не принимает переключение» делается только по тому, что произошло сразу после переключения. Прежде уликой могло стать что угодно, набранное хоть через десять секунд, и вердикт выносился по постороннему поводу.</li>
+<li>Раскладка больше не перестаёт переключаться после того, как вы сменили её сами. Если сразу после автоматического переключения нажать Globe или ⌃Space, Кракозябра принимала ваши же следующие буквы за отказ приложения и на десять минут переставала переключать раскладку в нём — молча, без единого следа в отчёте. Теперь ваш выбор раскладки просто отменяет проверку, а настоящий отказ приложения по-прежнему распознаётся.</li>
+<li>В настройках появился экспериментальный переключатель «Знаки препинания по языку последнего слова». После английского слова вопросительный знак ставится там, где он лежит в английском — Shift и клавиша «/», а на русской раскладке это запятая, поэтому вместо «release?» получалось «release,». Выключен по умолчанию: включайте, только если запятые вы ставите соседней клавишей (той, где в русском «б») — иначе ваши запятые начнут превращаться в вопросы.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.58/Krakozyabra-0.12.58.dmg" length="11566125" type="application/octet-stream" sparkle:edSignature="3+0CU8vYBWaeQkeNKqtsKLbk8mvpbkRJeY8fTYemyOPkMkgL0cgvCxqIR7Ci7sK+e5n8hRsS7tLRdnM2RTviCg=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.59/Krakozyabra-0.12.59.dmg" length="11564996" type="application/octet-stream" sparkle:edSignature="JNsaYPHiZGfEo6HK4OlzDhV9YRu2OQmuoOFm8TbSHSzaZRGXrfOIPIQ1UzdYxLm/ALPxwmvIBNseWr57tsTgAQ=="/>
         </item>
         <item>
             <title>0.1.3</title>
