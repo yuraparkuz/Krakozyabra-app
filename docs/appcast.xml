@@ -3,18 +3,19 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.12.59</title>
-            <pubDate>Mon, 21 Sep 2026 07:27:13 +0000</pubDate>
-            <sparkle:version>105</sparkle:version>
-            <sparkle:shortVersionString>0.12.59</sparkle:shortVersionString>
+            <title>0.12.60</title>
+            <pubDate>Mon, 21 Sep 2026 10:13:46 +0000</pubDate>
+            <sparkle:version>106</sparkle:version>
+            <sparkle:shortVersionString>0.12.60</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>Раскладка больше не перестаёт переключаться после того, как вы сменили её сами. Если сразу после автоматического переключения нажать Globe или ⌃Space, Кракозябра принимала ваши же следующие буквы за отказ приложения и на десять минут переставала переключать раскладку в нём — молча, без единого следа в отчёте. Теперь ваш выбор раскладки просто отменяет проверку, а настоящий отказ приложения по-прежнему распознаётся.</li>
-<li>В настройках появился экспериментальный переключатель «Знаки препинания по языку последнего слова». После английского слова вопросительный знак ставится там, где он лежит в английском — Shift и клавиша «/», а на русской раскладке это запятая, поэтому вместо «release?» получалось «release,». Выключен по умолчанию: включайте, только если запятые вы ставите соседней клавишей (той, где в русском «б») — иначе ваши запятые начнут превращаться в вопросы.</li>
+<li>«Мои слова (автоматически)» набираются вдвое быстрее: слово попадает в личный словарь со второго употребления, а не с третьего. Замер на реальном тексте показал, что встроенный словарь узнаёт заметно меньше ваших слов, чем книжных, — а каждое неузнанное слово это лишний риск ненужного исправления. Имена, термины и рабочий жаргон теперь получают защиту раньше.</li>
+<li>В отчёте о работе появилась строка о пропущенных исправлениях — словах, которые так и остались набранными не в той раскладке. Она нужна, чтобы поломку было видно сразу, а не через неделю.</li>
+<li>Строка «не принимают переключение раскладки» переписана: теперь она показывает приложения, для которых переключение приостановлено прямо сейчас, и сколько паузы осталось. Раньше в ней перечислялись все, кого отметили когда-либо, и это читалось как приговор, хотя пауза давно конечна.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.59/Krakozyabra-0.12.59.dmg" length="11564996" type="application/octet-stream" sparkle:edSignature="JNsaYPHiZGfEo6HK4OlzDhV9YRu2OQmuoOFm8TbSHSzaZRGXrfOIPIQ1UzdYxLm/ALPxwmvIBNseWr57tsTgAQ=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.60/Krakozyabra-0.12.60.dmg" length="11578058" type="application/octet-stream" sparkle:edSignature="QeyG69J0CIDjriKu4j0A+v9k8XT15am/nzZK9G7CY7HqYLJCIb/+ktiC6UvcE68967lUdWXnVt/YEFN4KFZQBw=="/>
         </item>
         <item>
             <title>0.1.3</title>
