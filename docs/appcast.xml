@@ -3,17 +3,17 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.12.64</title>
-            <pubDate>Fri, 25 Sep 2026 12:16:20 +0000</pubDate>
-            <sparkle:version>110</sparkle:version>
-            <sparkle:shortVersionString>0.12.64</sparkle:shortVersionString>
+            <title>0.12.65</title>
+            <pubDate>Fri, 25 Sep 2026 12:43:19 +0000</pubDate>
+            <sparkle:version>111</sparkle:version>
+            <sparkle:shortVersionString>0.12.65</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>Ещё одна диагностическая версия, поведение не меняется. Прошлая показала, что Кракозябра правильно замечает стёртое и перенабранное слово, но запись об этом до диска не доходит. Теперь журнал отладки показывает, чем закончилась каждая такая запись.</li>
+<li>Кракозябра наконец запоминает, когда вы стираете слово и набираете его заново — в другой раскладке или той же. Этот сигнал нужен личному словарю и будущему обучению, но с августа он терялся на пути к диску из-за ошибки в коде: само нажатие распознавалось правильно, а запись молча пропадала. Тесты этого не видели, нашли только диагностикой прошлых двух версий.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.64/Krakozyabra-0.12.64.dmg" length="11615086" type="application/octet-stream" sparkle:edSignature="8++i6JDIzmZsjltO7rMCsHOdwofX7+t6EjFV8Y1AQk5m+czlFDM97RA8JD7IAAc2SVvykLYeL2ov92Bzk15gCw=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.65/Krakozyabra-0.12.65.dmg" length="11624730" type="application/octet-stream" sparkle:edSignature="Sqfq2yE5RI9UfmA+1Z0S+tXvcFtwfbq3iBz8U+D8PyZJzQ/ZDl3WcCuHqrj7avjhErt1DqhQAotYL4SejDpyCg=="/>
         </item>
         <item>
             <title>0.1.3</title>
