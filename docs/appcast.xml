@@ -3,20 +3,18 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.12.61</title>
-            <pubDate>Thu, 24 Sep 2026 06:46:45 +0000</pubDate>
-            <sparkle:version>107</sparkle:version>
-            <sparkle:shortVersionString>0.12.61</sparkle:shortVersionString>
+            <title>0.12.62</title>
+            <pubDate>Fri, 25 Sep 2026 09:55:18 +0000</pubDate>
+            <sparkle:version>108</sparkle:version>
+            <sparkle:shortVersionString>0.12.62</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>«Эту», «Эта» и другие короткие слова после кавычки теперь исправляются. Раньше получалось только «Это»: кавычка перед словом — это на самом деле буква «Э», но слова в две буквы решались отдельным списком коротких слов, и если нужного там не было, исправление не случалось вовсе.</li>
-<li>Когда вы нажимаете «Сообщить об ошибке», появляется уведомление, что отчёт скопирован в буфер обмена. Раньше подтверждение показывалось в самом меню — которое к этому моменту уже закрылось, так что его никто не видел.</li>
-<li>В отчёт добавлена строка о раскладках, которые назначены приложениям: заданных вручную, выученных и запомненных. Они меняют раскладку при каждом переходе между окнами, но не были видны нигде — а со стороны это выглядит как «переключение перестало работать».</li>
-<li>Строка о пропущенных исправлениях больше не пугает зря: раньше она считала все следы за всю историю, включая давно исправленные, теперь — только то, что программа не чинит сегодня.</li>
+<li>Больше не залипает клавиша ⌘ после исправления выделенного текста по хоткею. Из-за этого позже само появлялось окно переключения программ, и выделение бегало по кругу, пока не нажмёшь любую клавишу: наше «отпускание клавиши» сообщало системе, что модификатор всё ещё держат, и отозвать это было нечем.</li>
+<li>Ручное переключение раскладки сразу после перехода между окнами или разблокировки экрана больше не теряется. Кракозябра отличала свои переключения от ваших только по времени, и ваш выбор, сделанный в первые доли секунды после её собственного, принимался за эхо и игнорировался целиком.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.61/Krakozyabra-0.12.61.dmg" length="11606827" type="application/octet-stream" sparkle:edSignature="QEvfvsClVZesoRFPz2u2ZnkZkAdLrapkWPAOdvYsBVJRohdd1E1N6b3nLsZS6O9VJkjAF9PUb1e4HErUw5njAQ=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.62/Krakozyabra-0.12.62.dmg" length="11608818" type="application/octet-stream" sparkle:edSignature="FMjK9RXdDfxY4qjSAJhhLchHMoQZImXhsbRMJG+1aNryz1x2s7WWYxt++W4Hx9hRBFEkQ5sL8L2TKfiMDAwoCQ=="/>
         </item>
         <item>
             <title>0.1.3</title>
