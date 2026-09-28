@@ -3,17 +3,17 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.12.66</title>
-            <pubDate>Fri, 25 Sep 2026 13:00:05 +0000</pubDate>
-            <sparkle:version>112</sparkle:version>
-            <sparkle:shortVersionString>0.12.66</sparkle:shortVersionString>
+            <title>0.12.67</title>
+            <pubDate>Mon, 28 Sep 2026 10:17:02 +0000</pubDate>
+            <sparkle:version>113</sparkle:version>
+            <sparkle:shortVersionString>0.12.67</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>Если стереть и заново набрать в той же раскладке своё слово, которого нет в словаре (имя, термин), Кракозябра больше не рискует навсегда отключить исправление этого слова, набранного не в той раскладке. Ошибку нашли при проверке прошлой версии, до вреда она не дошла.</li>
+<li>Как в автокоррекции на телефоне: если Кракозябра исправила слово, а вы стёрли исправление целиком и набрали своё заново, в этот раз она его не тронет. Так можно напечатать то, что похоже на набор не в той раскладке, но задумано именно так. Отказ действует один раз — следующее такое же слово снова исправится; хоткей по-прежнему исправляет всегда.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.66/Krakozyabra-0.12.66.dmg" length="11626301" type="application/octet-stream" sparkle:edSignature="5aHV+E9z6+zoX4f0T+WEcivEW+HP+DB/yRpZxGQ+pCzA5jV4LDWv0rcprGSTD2ngSLBdS2kwJhUcrPEgsmq2DA=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.67/Krakozyabra-0.12.67.dmg" length="11626365" type="application/octet-stream" sparkle:edSignature="1S4P1NAuDpNiRyITPUCZ+KfoI4fZgDD9h8G1dicS9zH01nqdsmTKgXdSPjny2rmURXxCbKDKeF7+pzTChGYjCg=="/>
         </item>
         <item>
             <title>0.1.3</title>
