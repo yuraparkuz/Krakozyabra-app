@@ -3,17 +3,17 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.12.74</title>
-            <pubDate>Mon, 05 Oct 2026 09:54:23 +0000</pubDate>
-            <sparkle:version>120</sparkle:version>
-            <sparkle:shortVersionString>0.12.74</sparkle:shortVersionString>
+            <title>0.12.75</title>
+            <pubDate>Mon, 05 Oct 2026 10:26:04 +0000</pubDate>
+            <sparkle:version>121</sparkle:version>
+            <sparkle:shortVersionString>0.12.75</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>В меню появился пункт «Поделиться Кракозяброй»: отправьте ссылку другу через Сообщения, Почту или AirDrop. Пиши. Я поправлю.</li>
+<li>«Поделиться Кракозяброй» стало проще: пункт меню «Скопировать ссылку на Кракозябру» кладёт в буфер слоган и ссылку — вставьте в Telegram, WhatsApp или куда угодно. Значок на пару секунд превращается в галочку.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.74/Krakozyabra-0.12.74.dmg" length="12566982" type="application/octet-stream" sparkle:edSignature="L3AuXobe+PQkw1ziF+LwytMLlY9EdvCxxa75dV0MJPE7zNsfu4YWfUxkQBLxHls7cn6LxFgXXnZj1ubpfqxSDg=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.75/Krakozyabra-0.12.75.dmg" length="12570020" type="application/octet-stream" sparkle:edSignature="vSbyE8zimHJQAu4zCEoql6HSUU0EfO26UMwCMeSZ4FBpXR4jidK3F2IZajFr1A7H1tioqOA/iJ1NL9uCA6Y/Bg=="/>
         </item>
         <item>
             <title>0.1.3</title>
