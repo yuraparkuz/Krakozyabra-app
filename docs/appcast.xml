@@ -3,18 +3,17 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.12.77</title>
-            <pubDate>Thu, 08 Oct 2026 04:00:36 +0000</pubDate>
-            <sparkle:version>123</sparkle:version>
-            <sparkle:shortVersionString>0.12.77</sparkle:shortVersionString>
+            <title>0.12.78</title>
+            <pubDate>Fri, 09 Oct 2026 10:13:41 +0000</pubDate>
+            <sparkle:version>124</sparkle:version>
+            <sparkle:shortVersionString>0.12.78</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>Новый хоткей исправления — двойной Shift: два быстрых нажатия исправляют выделенный текст или последнее слово. Прежний ⇧⌘S мешал «Сохранить как…»; если вы записывали своё сочетание, оно продолжит работать, а включить или поменять его можно во вкладке «Хоткей».</li>
-<li>Установка понятнее: в окне DMG теперь видно, что Кракозябру нужно перетащить в «Программы».</li>
+<li>Исправлено: после разблокировки экрана Кракозябра могла «запомнить» случайную смену раскладки как ваш выбор — и потом включать английскую при каждом возврате в приложение (например, в Telegram). Теперь смены раскладки в первые секунды после разблокировки не запоминаются, если вы сами не нажимали Globe.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.77/Krakozyabra-0.12.77.dmg" length="11745879" type="application/octet-stream" sparkle:edSignature="U8wbD28OBAHaIrLfi3FntEcy7I4z4LkoeIMGd7pUVvHBrnH1ZPpsLWfrmruqHNZCvDvNag4GEgfkUCwGn/NxDw=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.12.78/Krakozyabra-0.12.78.dmg" length="11746592" type="application/octet-stream" sparkle:edSignature="oUeXr8G151Zv2nDgpdpxyDU0JBAP7Gv0K7uhzJg2PTf6xw9p4YMNsdQc2EoCZg/qWtcWO2P9Xqr0lie2X61OCw=="/>
         </item>
         <item>
             <title>0.1.3</title>
