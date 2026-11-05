@@ -3,17 +3,18 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.13.3</title>
-            <pubDate>Thu, 05 Nov 2026 07:54:02 +0000</pubDate>
-            <sparkle:version>134</sparkle:version>
-            <sparkle:shortVersionString>0.13.3</sparkle:shortVersionString>
+            <title>0.13.4</title>
+            <pubDate>Thu, 05 Nov 2026 08:52:29 +0000</pubDate>
+            <sparkle:version>135</sparkle:version>
+            <sparkle:shortVersionString>0.13.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>Исправлено: если обновление уже скачано, «Проверить обновления…» больше не молчит — предлагает установить его сразу.</li>
+<li>Заглавная в начале фразы теперь ставится и в первом слове сообщения — например, в пустом поле Telegram после переключения из другой программы. Буква становится заглавной на пробеле после слова.</li>
+<li>Работает там, где программа сообщает, что написано перед курсором; где не сообщает — всё как раньше.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.13.3/Krakozyabra-0.13.3.dmg" length="12269184" type="application/octet-stream" sparkle:edSignature="ToxaMCTpjaoIHDqZVm1oyuA618A88WCrI5p9T6Z+db6952u+OvtKU0TKG/khXk64cd79VpFayeaUMf7fYBclCg=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.13.4/Krakozyabra-0.13.4.dmg" length="12284576" type="application/octet-stream" sparkle:edSignature="BdwNPeqPpP1bSr6VcSpfG8P08oR3aLtvdqPLIWyG7mp+y3rvAxs4IAE7Xv1WPgcHw/tgj5rkvO17DkZ82HCOAg=="/>
         </item>
         <item>
             <title>0.1.3</title>
