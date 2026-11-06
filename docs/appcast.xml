@@ -3,17 +3,20 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.13.6</title>
-            <pubDate>Thu, 05 Nov 2026 12:58:46 +0000</pubDate>
-            <sparkle:version>137</sparkle:version>
-            <sparkle:shortVersionString>0.13.6</sparkle:shortVersionString>
+            <title>0.13.7</title>
+            <pubDate>Fri, 06 Nov 2026 06:24:30 +0000</pubDate>
+            <sparkle:version>138</sparkle:version>
+            <sparkle:shortVersionString>0.13.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>Исправлено: если набрать часть слова, кликнуть мышью в другое место и продолжить, Кракозябра могла склеить старое и новое и вставить в текст слово, которое вы не набирали. Теперь клик мышью или трекпадом начинает слово заново.</li>
+<li>Кракозябра учится на ваших исправлениях: если вы дважды поправили одно и то же слово вручную (например, аббревиатуру «ПУЩ» → «GEO»), дальше оно исправляется само. Список — в Настройках → Словарь → «Мои слова».</li>
+<li>Там же видно, сколько раз за неделю помогли ваши слова.</li>
+<li>Однобуквенные слова: «в 2014 году», «с 10 до 12», «я - готов» теперь исправляются целиком. Если набрали букву, заметили и сами переключили раскладку — буква тоже исправится.</li>
+<li>Двойной Shift сразу после пробела исправляет только что набранное слово — например, одиночную «Z» в «Я».</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.13.6/Krakozyabra-0.13.6.dmg" length="12286956" type="application/octet-stream" sparkle:edSignature="BYTSUDfOaOkcpPUA/sOLzp6vLHPBaKv/3jn4buorCY38KG40UIjttkebzIPMk2/Ii6AZtQyRPOsXpNTUKcpTCA=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.13.7/Krakozyabra-0.13.7.dmg" length="12370649" type="application/octet-stream" sparkle:edSignature="O41D+zwxWrP1LyDYPBU4zNxyoFDAByzkZTQDiKgagI3ZXCCI1CQGpb8Be+2ytZOI5leRNdzv9sqt4lWU4ZKxCw=="/>
         </item>
         <item>
             <title>0.1.3</title>
