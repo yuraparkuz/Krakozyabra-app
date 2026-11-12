@@ -3,17 +3,20 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.13.9</title>
-            <pubDate>Tue, 10 Nov 2026 10:31:41 +0000</pubDate>
-            <sparkle:version>140</sparkle:version>
-            <sparkle:shortVersionString>0.13.9</sparkle:shortVersionString>
+            <title>0.13.10</title>
+            <pubDate>Thu, 12 Nov 2026 09:30:01 +0000</pubDate>
+            <sparkle:version>141</sparkle:version>
+            <sparkle:shortVersionString>0.13.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>Исправлено: если перед словом стоит однобуквенное («в», «с», «я»), набранное не в той раскладке, и в самом слове вы стёрли опечатку, буква оставалась латиницей («d форме»). Теперь исправляется вместе со словом: «в форме».</li>
+<li>Иконка в строке меню показывает состояние: на паузе она перечёркнута, без доступа — с «!», после пробного периода — бледная.</li>
+<li>Меню стало короче: «Пауза», «Исправить выделение», «Настройки…», версия с проверкой обновлений и «Выйти».</li>
+<li>Настройки разложены заново: «Основные», «Тонкости», «Слова», «Приложения» (языки и исключения в одной таблице), «О программе» с разделом «Помощь и связь». Все вкладки прокручиваются.</li>
+<li>«Сообщить об ошибке» теперь в «О программе» → «Помощь и связь».</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.13.9/Krakozyabra-0.13.9.dmg" length="12377168" type="application/octet-stream" sparkle:edSignature="E/4nyyDFplNIIhYf97QeVcDJh1rxuzZoUXeVnBhOTY785gSimMtmVJ8VWUVBE3fZ3fw9v6qhl2jTg+RgWb+UDw=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.13.10/Krakozyabra-0.13.10.dmg" length="12461056" type="application/octet-stream" sparkle:edSignature="tZs71tDz37SuhgnjH+TegSptTZ1VZ3Bwy8UP5izAFLuiIL62rEUjgYCP1jnJ0Xbtm+nTIr2jYIOsDTL16YB0Aw=="/>
         </item>
         <item>
             <title>0.1.3</title>
