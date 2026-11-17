@@ -3,18 +3,22 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.14.0</title>
-            <pubDate>Thu, 12 Nov 2026 10:28:24 +0000</pubDate>
-            <sparkle:version>142</sparkle:version>
-            <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
+            <title>0.15.0</title>
+            <pubDate>Tue, 17 Nov 2026 09:13:42 +0000</pubDate>
+            <sparkle:version>143</sparkle:version>
+            <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>Пробный период теперь 30 дней использования вместо 14. Считаются только дни, когда вы печатаете.</li>
-<li>Если 14 дней у вас уже закончились, всё остаётся как было: двойной Shift работает бесплатно, автоматика — с ключом Pro.</li>
+<li>Новая вкладка «Итоги» в настройках: сколько слов Кракозябра исправила сама, сколько выучила, в каких приложениях помогала, и календарь по дням.</li>
+<li>В меню — строка «N исправлено»: по клику открываются «Итоги».</li>
+<li>Ключ Pro теперь вводится на «Итогах» — туда же ведут меню и уведомления, когда пробный период закончился.</li>
+<li>За 2 дня до конца пробного периода придёт уведомление с вашими цифрами.</li>
+<li>Исправлено: когда кончался срок ключа, Кракозябра писала «пробный период закончился».</li>
+<li>Исправлено: в Google Docs в Safari от исправленного слова оставалась одна буква («Прибыль» → «Пыль»); точка после паузы иногда превращалась в «/».</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.14.0/Krakozyabra-0.14.0.dmg" length="12461435" type="application/octet-stream" sparkle:edSignature="rPm1QtI62DfWSwHG4M+VBg45Pd/HcnissHtNT9gny5am4fs+H59Tk5ixypUQiTNAlKNBVrw1A4YjxmLBDfpIAQ=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.15.0/Krakozyabra-0.15.0.dmg" length="10844819" type="application/octet-stream" sparkle:edSignature="BmTtrBaM27abea8lrPuX/hULwGVTjArEgAq/EsT+5qO86YAAMKaxypS8kItFFzRIjcRv956YjamYB1vtFEeNCA=="/>
         </item>
         <item>
             <title>0.1.3</title>
