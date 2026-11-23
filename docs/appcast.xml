@@ -3,17 +3,19 @@
     <channel>
         <title>Krakozyabra</title>
         <item>
-            <title>0.16.4</title>
-            <pubDate>Mon, 23 Nov 2026 10:06:07 +0000</pubDate>
-            <sparkle:version>148</sparkle:version>
-            <sparkle:shortVersionString>0.16.4</sparkle:shortVersionString>
+            <title>0.16.5</title>
+            <pubDate>Mon, 23 Nov 2026 12:01:57 +0000</pubDate>
+            <sparkle:version>149</sparkle:version>
+            <sparkle:shortVersionString>0.16.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Что нового</h2>
 <ul>
-<li>Слово исправляется и тогда, когда сразу после него нажат Enter — в мессенджерах и чат-ботах больше не уходит кракозябра. ⇧Enter по-прежнему переносит строку.</li>
+<li>Кракозябра точнее учится на ваших исправлениях: если слово исправляли то в одну, то в другую сторону, она больше не запутывается и не начинает портить правильно набранное.</li>
+<li>Слово, которое вы исправили, больше не засчитывается как «ваше» и не защищается от исправления.</li>
+<li>«abrc» теперь само становится «фикс».</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.16.4/Krakozyabra-0.16.4.dmg" length="10764946" type="application/octet-stream" sparkle:edSignature="uDME2R0wO3D7Q7grwecYzO6p5/GNKO8RuWxw43TnggWK8huliCROmDDrdE7Bq7Z2BdHS+aVvdvWKQGOBx5fuCw=="/>
+            <enclosure url="https://github.com/yuraparkuz/Krakozyabra-app/releases/download/v0.16.5/Krakozyabra-0.16.5.dmg" length="10789522" type="application/octet-stream" sparkle:edSignature="Sja5MulXMky86t8kxPw2wBMp9bChhvAqUelXzzXugEGFpWI2QFra0bE0+XMR/IMqOkTyvUlvXnXNgREHYZcpDg=="/>
         </item>
         <item>
             <title>0.1.3</title>
